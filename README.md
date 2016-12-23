@@ -18,7 +18,6 @@ or add
 
 Simple Usage
 =====
-* Add following lines into `main.php` configuration file:
 
         echo $form->field($model, 'date_range')->widget(\xiaogouxo\datepicker\pickerDateRange::classname(), [
             'jsOptions' => [
