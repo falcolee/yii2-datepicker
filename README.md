@@ -1,5 +1,5 @@
-# yii2-pushbullet
-A simple pushbullet extension for yii2. 
+# yii2-datepicker
+A simple datepicker extension for yii2. 
 
 * All kinds of push like note link file & etc.. supported.
 * Easy to use in 5 secs 
